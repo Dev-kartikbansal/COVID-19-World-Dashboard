@@ -47,3 +47,8 @@ This repository contains the code and visualizations for a Covid-19 World Analys
   
 <img width="1652" height="906" alt="Screenshot 2024-09-15 163142" src="https://github.com/user-attachments/assets/bba577a2-079a-48eb-a62a-7470e5391fb3" />
 
+👨‍💻 Author
+Kartik
+
+Data Analyst | Tableau | SQL | Python | Power BI
+
