@@ -11,7 +11,8 @@ This repository contains the code and visualizations for a Covid-19 World Analys
 * **Cases Across World:**
    A map visualization showing cases across the world.
   
-   ![Image](https://github.com/harsharma30/Data_Science_Projects/blob/67b5213f4b6186d42035b52810d36099369cdc80/PROJECT%202%20COVID-19%20World%20Dashboard/Images/Screenshot%202024-09-15%20163037.png)
+  <img width="1650" height="903" alt="Screenshot 2024-09-15 163037" src="https://github.com/user-attachments/assets/5578f633-254b-41f6-a734-d24e2f28e505" />
+
 
   
 * **Cases per day Dual Axis:**
